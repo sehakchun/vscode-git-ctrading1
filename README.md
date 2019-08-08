@@ -1,0 +1,1 @@
+vs code를 이용하여 git에 ctrading 파일들을 올립니다.
